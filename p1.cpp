@@ -16,7 +16,7 @@ void prosedurluas(){
 }
 
 
-void prosedurluas(){
+void tampilkanluas(){
     cout << "luas persegi panjang:" << luas << endl;
 }
 

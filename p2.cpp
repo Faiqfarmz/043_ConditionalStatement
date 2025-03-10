@@ -23,7 +23,7 @@ void tampilkanFungsiLuas(){
     cout << "Luas persegi panjang (fungsi tidak berparameter): " << fungsiluas()<< endl; 
 }
 
-void tampilkanLuasBerprameter(){
+void tampilkanLuasBerparameter(){
     cout << "Luas persegi panjang (fungsi berparameter): " << hitungluasBerparameter(panjang, lebar);
 }
 
